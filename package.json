@@ -24,7 +24,8 @@
     "react-router-hash-link": "^2.4.3",
     "react-scripts": "^5.0.1",
     "sass": "^1.54.5",
-    "typescript": "^4.7.4"
+    "typescript": "^4.7.4",
+    "gh-pages": "^3.2.3"
   },
   "scripts": {
     "start": "react-scripts start",
@@ -49,8 +50,5 @@
       "last 1 safari version"
     ]
   },
-  "homepage": "https://anjum00.github.io/myPortFolio/",
-  "devDependencies": {
-    "gh-pages": "^6.1.1"
-  }
+  "homepage": "https://anjum00.github.io/myPortFolio/"
 }
