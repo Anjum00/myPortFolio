@@ -113,7 +113,7 @@ export const info = {
         {
             title: "Project 1",
             live: "https://paytonpierce.dev", //this should be a link to the live version of your project, think github pages, netlify, heroku, etc. Or your own domain, if you have it.
-            source: "https://github.com/paytonjewell", // this should be a link to the **repository** of the project, where the code is hosted.
+            source: "https://github.com/Anjum00/myEcommerceSite", // this should be a link to the **repository** of the project, where the code is hosted.
             image: mock1
         },
         {

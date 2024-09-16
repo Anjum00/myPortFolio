@@ -22,7 +22,7 @@ export default function Home({innerRef}) {
             <Box component={'ul'} p={'0.8rem'}>
                {info.miniBio.map((bio, index) => (
                   <EmojiBullet key={index} emoji={bio.emoji} text={bio.text}/>
-               ))}
+               ))} 
             </Box>
             <Box display={'flex'} gap={'1.5rem'} justifyContent={'center'} fontSize={{xs: '2rem', md: '2.5rem'}}>
                {info.socials.map((social, index) => (
