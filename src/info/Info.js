@@ -78,16 +78,16 @@ export const info = {
             icon: "fa fa-twitter",
             label: 'twitter'
         }
-// Feel free to remove any of these that you don't have. I'll write an FAQ on how to add new ones later, let me know if you have a request for an icon!
-// Just change the links so that they lead to your social profiles.
+        // Feel free to remove any of these that you don't have. I'll write an FAQ on how to add new ones later, let me know if you have a request for an icon!
+        // Just change the links so that they lead to your social profiles.
 
     ],
     bio: "I am Anjum, a Full-Stack Developer based in Ahmedabad. I completed my BCA from MKBU University in 2023 and have since gained practical experience through a full-stack developer internship at Elsner Technology Ahmedabad. My expertise includes HTML, CSS, JavaScript, and React, where I specialize in building dynamic, responsive web applications. During my internship, I developed skills in both frontend and backend development, integrating user interfaces with backend services to create seamless and efficient solutions. I am passionate about leveraging my technical skills to solve complex problems and deliver high-quality software.",
     skills:
-        {
-            proficientWith: ['javascript', 'react', 'git', 'github', 'html', 'css', 'figma'],
-            exposedTo: ['nodejs', 'adobe illustrator']
-        }
+    {
+        proficientWith: ['javascript', 'react', 'git', 'github', 'html', 'css', 'figma'],
+        exposedTo: ['nodejs', 'adobe illustrator']
+    }
     ,
     hobbies: [
         {
@@ -106,14 +106,12 @@ export const info = {
             label: 'cooking',
             emoji: '🌶'
         }
-// Same as above, change the emojis to match / relate to your hobbies or interests.
-// You can also remove the emojis if you'd like, I just think they look cute :P
     ],
-    portfolio: [ // This is where your portfolio projects will be detailed
+    portfolio: [ 
         {
             title: "HTML/CSS Project",
-            live: "https://anjum00.github.io/HTMlFigmaProject/", //this should be a link to the live version of your project, think github pages, netlify, heroku, etc. Or your own domain, if you have it.
-            source: "https://github.com/Anjum00/HTMlFigmaProject", // this should be a link to the **repository** of the project, where the code is hosted.
+            live: "https://anjum00.github.io/HTMlFigmaProject/", 
+            source: "https://github.com/Anjum00/HTMlFigmaProject",
             image: mock1
         },
         {
