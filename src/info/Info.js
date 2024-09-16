@@ -54,27 +54,27 @@ export const info = {
     ],
     socials: [
         {
-            link: "https://facebook.com",
+            link: "https://www.facebook.com/anjum.saiyad.750?mibextid=ZbWKwL",
             icon: 'fa fa-facebook',
             label: 'facebook'
         },
         {
-            link: "https://instagram.com",
+            link: "https://www.instagram.com/mr_anjum_miya?igsh=MXFncGNjcXhqZHI1cQ==",
             icon: 'fa fa-instagram',
             label: 'instagram'
         },
         {
-            link: "https://github.com",
+            link: "https://github.com/Anjum00",
             icon: "fa fa-github",
             label: 'github'
         },
         {
-            link: "https://linkedin.com",
+            link: "https://www.linkedin.com/in/anjum-saiyad-7290b8234/",
             icon: "fa fa-linkedin",
             label: 'linkedin'
         },
         {
-            link: "https://twitter.com",
+            link: "https://x.com/Anjumsaiyad007?t=3KydG590VZ3BW_DQ9XNGOA&s=08",
             icon: "fa fa-twitter",
             label: 'twitter'
         }
@@ -111,9 +111,9 @@ export const info = {
     ],
     portfolio: [ // This is where your portfolio projects will be detailed
         {
-            title: "Project 1",
-            live: "https://paytonpierce.dev", //this should be a link to the live version of your project, think github pages, netlify, heroku, etc. Or your own domain, if you have it.
-            source: "https://github.com/Anjum00/myEcommerceSite", // this should be a link to the **repository** of the project, where the code is hosted.
+            title: "HTML/CSS Project",
+            live: "https://anjum00.github.io/HTMlFigmaProject/", //this should be a link to the live version of your project, think github pages, netlify, heroku, etc. Or your own domain, if you have it.
+            source: "https://github.com/Anjum00/HTMlFigmaProject", // this should be a link to the **repository** of the project, where the code is hosted.
             image: mock1
         },
         {
