@@ -116,7 +116,7 @@ export const info = {
         },
         {
             title: "Project 2",
-            live: "https://paytonpierce.dev",
+            live: "https://anjum00.github.io/HTMlFigmaProject/",
             source: "https://github.com/paytonjewell",
             image: mock2
         },
