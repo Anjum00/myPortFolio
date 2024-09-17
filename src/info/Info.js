@@ -54,38 +54,40 @@ export const info = {
     ],
     socials: [
         {
-            link: "https://www.facebook.com/anjum.saiyad.750?mibextid=ZbWKwL",
+            link: "https://facebook.com",
             icon: 'fa fa-facebook',
             label: 'facebook'
         },
         {
-            link: "https://www.instagram.com/mr_anjum_miya?igsh=MXFncGNjcXhqZHI1cQ==",
+            link: "https://instagram.com",
             icon: 'fa fa-instagram',
             label: 'instagram'
         },
         {
-            link: "https://github.com/Anjum00",
+            link: "https://github.com",
             icon: "fa fa-github",
             label: 'github'
         },
         {
-            link: "https://www.linkedin.com/in/anjum-saiyad-7290b8234/",
+            link: "https://linkedin.com",
             icon: "fa fa-linkedin",
             label: 'linkedin'
         },
         {
-            link: "https://x.com/Anjumsaiyad007?t=3KydG590VZ3BW_DQ9XNGOA&s=08",
+            link: "https://twitter.com",
             icon: "fa fa-twitter",
             label: 'twitter'
         }
+// Feel free to remove any of these that you don't have. I'll write an FAQ on how to add new ones later, let me know if you have a request for an icon!
+// Just change the links so that they lead to your social profiles.
 
     ],
     bio: "I am Anjum, a Full-Stack Developer based in Ahmedabad. I completed my BCA from MKBU University in 2023 and have since gained practical experience through a full-stack developer internship at Elsner Technology Ahmedabad. My expertise includes HTML, CSS, JavaScript, and React, where I specialize in building dynamic, responsive web applications. During my internship, I developed skills in both frontend and backend development, integrating user interfaces with backend services to create seamless and efficient solutions. I am passionate about leveraging my technical skills to solve complex problems and deliver high-quality software.",
     skills:
-    {
-        proficientWith: ['javascript', 'react', 'git', 'github', 'html', 'css', 'figma'],
-        exposedTo: ['nodejs', 'adobe illustrator']
-    }
+        {
+            proficientWith: ['javascript', 'react', 'git', 'github', 'html', 'css', 'figma'],
+            exposedTo: ['nodejs', 'adobe illustrator']
+        }
     ,
     hobbies: [
         {
@@ -104,36 +106,50 @@ export const info = {
             label: 'cooking',
             emoji: '🌶'
         }
+// Same as above, change the emojis to match / relate to your hobbies or interests.
+// You can also remove the emojis if you'd like, I just think they look cute :P
     ],
-    portfolio: [ 
+    portfolio: [ // This is where your portfolio projects will be detailed
         {
             title: "HTML/CSS Project",
-            live: "https://anjum00.github.io/HTMlFigmaProject/", 
-            source: "https://github.com/Anjum00/HTMlFigmaProject",
+            live: "https://anjum00.github.io/HTMlFigmaProject/", //this should be a link to the live version of your project, think github pages, netlify, heroku, etc. Or your own domain, if you have it.
+            source: "https://github.com/Anjum00/HTMlFigmaProject", // this should be a link to the **repository** of the project, where the code is hosted.
             image: mock1
         },
         {
-            title: "Project 2",
-            live: "https://anjum00.github.io/HTMlFigmaProject/",
-            source: "https://github.com/paytonjewell",
+            title: "Wheather App",
+            live: "https://anjum00.github.io/Wheather-App/",
+            source: "https://github.com/Anjum00/Wheather-App",
             image: mock2
         },
         {
-            title: "Project 3",
-            live: "https://paytonpierce.dev",
-            source: "https://github.com/paytonjewell",
+            title: "Stop Watch App",
+            live: "https://anjum00.github.io/StopWatch/",
+            source: "https://github.com/Anjum00/StopWatch",
             image: mock3
         },
         {
-            title: "Project 4",
-            live: "https://paytonpierce.dev",
-            source: "https://github.com/paytonjewell",
+            title: "To Do List App",
+            live: "https://anjum00.github.io/ToDoListApp/",
+            source: "https://github.com/Anjum00/ToDoListApp",
             image: mock4
         },
         {
-            title: "Project 5",
-            live: "https://paytonpierce.dev",
-            source: "https://github.com/paytonjewell",
+            title: "Quiz App",
+            live: "https://anjum00.github.io/QuizApp/",
+            source: "https://github.com/Anjum00/QuizApp",
+            image: mock5
+        },
+        {
+            title: "Counter App",
+            live: "https://anjum00.github.io/CounterApp/",
+            source: "https://github.com/Anjum00/CounterApp",
+            image: mock5
+        },
+        {
+            title: "Generate Random Password App",
+            live: "https://anjum00.github.io/GenerateRandomPassword/",
+            source: "https://github.com/Anjum00/GenerateRandomPassword",
             image: mock5
         }
     ]

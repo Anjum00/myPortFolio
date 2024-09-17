@@ -44,12 +44,12 @@ export default function BaseLayout() {
                <Navbar darkMode={darkMode} handleClick={handleToggleDarkMode} active={active} setActive={setActive} />
             </Grid>
             <Grid item flexGrow={1}>
-               {singlePage ? <SinglePageRoutes refs={{ refHome, refAbout, refPortfolio }} /> : <MultiPageRoutes />}
+               {singlePage ? <SinglePageRoutes refs={{refHome, refAbout, refPortfolio}}/> : <MultiPageRoutes />}
             </Grid>
             <Grid item>
                <Box component={'footer'} display={'flex'} flexDirection={'column'} alignItems={'center'}
                   py={'1.5rem'} sx={{ opacity: 0.7 }} width={'100%'}>
-                  <p>Devlope&hearts; by <a href={'https://paytonpierce.devhttps://anjum00.github.io/myPortFolio/'}>Anjum Saiyad</a></p>
+                  <p>developed &hearts; by <a href={'https://anjum00.github.io/myPortFolio/'}>Anjum Saiyad</a></p>
                   <p>&copy; 2024</p>
                </Box>
             </Grid>
