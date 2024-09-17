@@ -78,8 +78,6 @@ export const info = {
             icon: "fa fa-twitter",
             label: 'twitter'
         }
-        // Feel free to remove any of these that you don't have. I'll write an FAQ on how to add new ones later, let me know if you have a request for an icon!
-        // Just change the links so that they lead to your social profiles.
 
     ],
     bio: "I am Anjum, a Full-Stack Developer based in Ahmedabad. I completed my BCA from MKBU University in 2023 and have since gained practical experience through a full-stack developer internship at Elsner Technology Ahmedabad. My expertise includes HTML, CSS, JavaScript, and React, where I specialize in building dynamic, responsive web applications. During my internship, I developed skills in both frontend and backend development, integrating user interfaces with backend services to create seamless and efficient solutions. I am passionate about leveraging my technical skills to solve complex problems and deliver high-quality software.",
