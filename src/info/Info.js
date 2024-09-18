@@ -126,31 +126,31 @@ export const info = {
             title: "Stop Watch App",
             live: "https://anjum00.github.io/StopWatch/",
             source: "https://github.com/Anjum00/StopWatch",
-            image: mock3
+            image: mock2
         },
         {
             title: "To Do List App",
             live: "https://anjum00.github.io/ToDoListApp/",
             source: "https://github.com/Anjum00/ToDoListApp",
-            image: mock4
+            image: mock2
         },
         {
             title: "Quiz App",
             live: "https://anjum00.github.io/QuizApp/",
             source: "https://github.com/Anjum00/QuizApp",
-            image: mock5
+            image: mock2
         },
         {
             title: "Counter App",
             live: "https://anjum00.github.io/CounterApp/",
             source: "https://github.com/Anjum00/CounterApp",
-            image: mock5
+            image: mock2
         },
         {
             title: "Generate Random Password App",
             live: "https://anjum00.github.io/GenerateRandomPassword/",
             source: "https://github.com/Anjum00/GenerateRandomPassword",
-            image: mock5
+            image: mock2
         }
     ]
 }
