@@ -53,7 +53,7 @@ export const info = {
         },
         {
             emoji: "📞",
-            text: "anjumsaiyad085@gmail.com"
+            text: "+91 9316380789"
         },
     ],
     socials: [
