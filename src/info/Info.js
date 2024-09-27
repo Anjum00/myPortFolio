@@ -1,7 +1,7 @@
 import self from "../img/self.jpg"
 import mock1 from "../img/mock1.png"
 import mock2 from "../img/mock2.png"
-import mock3 from "../img/mock3.png"
+import mock6 from "../img/mock6.png"
 import mock4 from "../img/mock4.png"
 import mock5 from "../img/mock5.png"
 
@@ -155,6 +155,12 @@ export const info = {
             live: "https://anjum00.github.io/GenerateRandomPassword/",
             source: "https://github.com/Anjum00/GenerateRandomPassword",
             image: mock2
+        },
+        {
+            title: "Health Care Services",
+            live: "https://anjum00.github.io/HealthCareServices/",
+            source: "https://anjum00.github.io/HealthCareServices/",
+            image: mock6
         }
     ]
 }
