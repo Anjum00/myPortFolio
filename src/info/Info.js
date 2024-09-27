@@ -159,7 +159,7 @@ export const info = {
         {
             title: "Health Care Services",
             live: "https://anjum00.github.io/HealthCareServices/",
-            source: "https://anjum00.github.io/HealthCareServices/",
+            source: "https://github.com/Anjum00/HealthCareServices",
             image: mock6
         }
     ]
