@@ -161,6 +161,12 @@ export const info = {
             live: "https://anjum00.github.io/HealthCareServices/",
             source: "https://github.com/Anjum00/HealthCareServices",
             image: mock6
-        }
+        },
+        {
+            title: "Product Landing Page",
+            live: "https://anjum00.github.io/brandPage/",
+            source: "https://github.com/Anjum00/brandPage",
+            image: mock6
+        },
     ]
 }
