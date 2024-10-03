@@ -168,5 +168,35 @@ export const info = {
             source: "https://github.com/Anjum00/brandPage",
             image: mock6
         },
+        {
+            title: "Qr-Code Generator",
+            live: "https://anjum00.github.io/QrCodeGenerator/",
+            source: "https://github.com/Anjum00/QouteGenerate",
+            image: mock2
+        },
+        {
+            title: "Music Player",
+            live: "https://anjum00.github.io/MusicPlayer/",
+            source: "https://github.com/Anjum00/MusicPlayer",
+            image: mock2
+        },
+        {
+            title: "Live Preview Page",
+            live: "https://anjum00.github.io/LivePreviewPage/",
+            source: "https://github.com/Anjum00/LivePreviewPage",
+            image: mock2
+        },
+        {
+            title: "Toast Notifications Page",
+            live: "https://anjum00.github.io/ToastNotifications/",
+            source: "https://github.com/Anjum00/ToastNotifications",
+            image: mock2
+        },
+        {
+            title: "Qoute Generator",
+            live: "https://anjum00.github.io/QouteGenerate/",
+            source: "https://github.com/Anjum00/QouteGenerate",
+            image: mock2
+        },
     ]
 }
